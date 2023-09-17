@@ -7,7 +7,7 @@ public class Pipespawnerc : MonoBehaviour
     // Start is called before the first frame update
 
     public GameObject pipe;
-    public float spawnRate = 2;
+    public float spawnRate = 2.5;
     private float timer;
     public float heightOffset = 10;
     void Start()
